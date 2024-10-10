@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    margin: 20px;
+}
+.heading {
+    font-size: 2.5rem;
+    color: #2c3e50;
+}
+.description {
+    font-size: 1.2rem;
+    color: #34495e;
+}
+.links {
+    margin-top: 20px;
+}
+.links a {
+    margin-right: 15px;
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+}
+.link a:hover{
+    color: #f39c12;
+}
